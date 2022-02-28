@@ -1,0 +1,325 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The testimony of our reverend brethren, ministers of the province of London. To the truth of Jesus Christ, and our Solemne League and Covenant, &amp;c. Attested by other ministers of Christ in the county of Northampton.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95673</idno>
+            <idno type="STC">Wing T817</idno>
+            <idno type="STC">Thomason E441_29</idno>
+            <idno type="EEBO-CITATION">99863701</idno>
+            <idno type="PROQUEST">99863701</idno>
+            <idno type="VID">161683</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95673)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161683)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 69:E441[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The testimony of our reverend brethren, ministers of the province of London. To the truth of Jesus Christ, and our Solemne League and Covenant, &amp;c. Attested by other ministers of Christ in the county of Northampton.</title>
+                  <author>Winston, John, fl. 1648.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright at the Kings Head in the Old Bayley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: John Winston [and 68 others].</note>
+                  <note>Annotation on Thomason copy: "May.11th."</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Solemn League and Covenant (1643) --  Early works to 1800.</term>
+               <term>Presbyterianism --  Doctrines --  Early works to 1800.</term>
+               <term>Clergy --  England --  Northampton --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161683:1"/>
+            <p>THE TESTIMONY OF Our Reverend BRETHREN, Miniſters of the Province Of LONDON. To the Truth of JESUS CHRIST, And our <hi>Solemne League and Covenant, &amp;c.</hi> ATTESTED By other MINISTERS of CHRIST in the County of Northampton.</p>
+            <q>
+               <bibl>John 8.17.</bibl>
+               <p>It is alſo written in your Law, that the teſtimony of two men is true.</p>
+            </q>
+            <p>
+               <add>may .11<hi rend="sup">th.</hi>
+               </add> 
+               <hi>LONDON,</hi> Printed for <hi>John Wright</hi> at the Kings Head in the Old Bayley. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161683:2"/>
+            <pb n="1" facs="tcp:161683:2"/>
+            <head>The Teſtimony of our Reverend Brethren, Miniſters of the Province of <hi>London,</hi> to the Truth of Jeſus Chriſt, &amp;c Atteſted by other Miniſters of Chriſt in the County of NORTHAMPTON.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is the Word of God
+<note n="a" place="margin">Deut. 19 15.</note> alleadged, and averred by our Lord and Saviour Jeſus Chriſt
+<note n="b" place="margin">Mat. 18.16.</note> 
+               <hi>That in the mouth of two or three wit<g ref="char:EOLhyphen"/>neſſes every word ſhall be eſtabliſhed;</hi> We therefore (whoſe names are hereunto ſubſcribed) having ſeene a Booke (in<g ref="char:EOLhyphen"/>tituled, <hi>A Teſtimony to be truth of Jeſus Chriſt</hi>) ſubſcribed by many of our Reverend Brethren within the Province of <hi>London,</hi> and conſidering that Jeſus Chriſt was borne, and came into the world that he might beare wit<g ref="char:EOLhyphen"/>neſſe to the truth,
+<note n="c" place="margin">John 18.27</note> and that not onely the Apoſtles in their times,
+<note n="d" place="margin">Act. 1.8</note> but all the Miniſters of Chriſt in the ſeverall Ages and ſucceſsions of the Churches, are called Witneſſes,
+<note n="e" place="margin">Rev. 11.3.7.</note> have thought it our duty, to <hi>Arteſt</hi> their Teſtimony, for as much as the grounds and motives of that their under<g ref="char:EOLhyphen"/>taking (as we conceive) were not Provinciall only, but of a N<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tionall, if not an Univerſall influence. For ought not Gods glory, and the preſence of his grace, the government of Jeſus Chriſt, and all his ſtanding Ordinances, the au<g ref="char:EOLhyphen"/>thority of Scripture, and power of godlineſſe to be deare and pretious unto all? Are not all the Miniſters of Je<g ref="char:EOLhyphen"/>ſus Chriſt in every Congregation and County of this
+<pb n="2" facs="tcp:161683:3"/>Kingdome, ſet for the defence of the Goſpell?
+<note n="f" place="margin">Philip. 1.17.</note> and bound to marke them which cauſe diviſions, and diſſentions con<g ref="char:EOLhyphen"/>trary to the doctrine which they have learned, and to avoid them?
+<note n="g" place="margin">Rom. 16.17.</note> Are they not charged to Preach the Word, to be in<g ref="char:EOLhyphen"/>ſtant in ſeaſon, out of ſea on, to reprove, rebuke, exhort with all long ſuffering, and doctrine; becauſe the time is come when they will not endure ſound doctrine, but (after their owne luſts) will heape unto themſelves Teachers, having itching eares, and doe turne away their eares from the truth, and are turned unto fables?
+<note n="h" place="margin">2 Tim 4.1, 2, 3, 4.</note> Are not all the Elders of the Church (as well as thoſe of <hi>Epheſus</hi>)
+<note n="i" place="margin">Act. 20.17. ver. 28 29, 30.</note> to take heed unto themſelves, and to all the flock over whom the Holy Ghoſt hath made them Over-ſeers, to feed the Church of God; which he hath purchaſed with his owne blood? Eſpecially when they ſee, that grievous Wolves are entred in among them, not ſparing the flock, and that of their owne ſelves, men doe ariſe ſpeaking perverſe things, to draw away Diſciples after them? For though this King<g ref="char:EOLhyphen"/>dome is not yet formed into Provinces throughout, as <hi>Lon<g ref="char:EOLhyphen"/>don</hi> is, yet are we ſet in the Church,
+<note n="k" place="margin">1 Cor. 12 28.</note> and ſo in the body,
+<note n="l" place="margin">Heb. 13.3.</note> and bound to all endeavours for preventing Schiſme,
+<note n="m" place="margin">1 Cor. 12 25.</note> and have upon us the care, not only of our owne parti<g ref="char:EOLhyphen"/>cular Congregations, but in ſome ſort likewiſe, of all the Churches;
+<note n="n" place="margin">2 Cor. 11 28.</note> And though we cannot but acknowledge, that we have been much provoked, and put on to what we doe, by our Reverend Bretherens zeale,
+<note n="o" place="margin">2 Cor. 9.2</note> yet are we many other waies engaged and obliged to it; for can our ſolemne League and Covenant ſo lately ſworne, and ſo ſucceſſeful<g ref="char:EOLhyphen"/>ly ingaged in by both the Kingdomes, be ſo ſoone laid aſide, forgotten, and thought invalid, and out of date? Is the unqueſtioned Doctrine of the Church of <hi>England</hi> con<g ref="char:EOLhyphen"/>tained in the Creeds, and nine and thirty Articles (where<g ref="char:EOLhyphen"/>in the ſaid Errours are adjudged and diſcovered) of no au<g ref="char:EOLhyphen"/>thority? Have not our Reverend Brethren, now fitting at <hi>Weſtminſter,</hi> by authority of Parliament, in that lear<g ref="char:EOLhyphen"/>ned, pious, orthodox, unparallel'd Confeſsion of Faith, (preſented by them unto the Parliament, and ſince pub<g ref="char:EOLhyphen"/>liſhed) ſpoken our very thoughts, and in that, and their
+<pb n="3" facs="tcp:161683:3"/>Advice concerning Church-Government, and Ordination of Miniſters, made an ample, ſeaſonable, and full ſupply of thoſe things wherein before this Church and King<g ref="char:EOLhyphen"/>dome were defective. Wherefore we doe not thinke our Bretherens Teſtimony, or this our <hi>Atteſtation</hi> of it, to be needleſſe or unſeaſonable, but a neceſſary &amp; proper confeſ<g ref="char:EOLhyphen"/>ſion and profeſsion of our former manifold Obligations &amp; Engagements. We therefore that have hereunto ſubſcribed our names, for the clearing and acquitting of our ſelves, the incouraging of our Brethren, who have gone before us in the worke, the ſupporting of the weake, ſetling of the wavering, and reclayming of the wandering; Doe aſſert, and ſigne this our <hi>Atteſtation,</hi> not doubting but by the bleſsing of God upon our innocency and ſincerity therein, it may doe good: for howſoever Errours are not here diſcuſſed and diſproved by way of Argument, yet they are noted, and called Errours by proper Judges, and of un<g ref="char:EOLhyphen"/>ſuſpected integrity and intereſts: that, as many have been ſeduced and led away by the ſole authority and practiſe of ſome they valued, ſo they may be reduced by the con<g ref="char:EOLhyphen"/>current judgement, teſtimony, and authority of many others; yet (with our Reverend Brethren) we doe not thinke all Errours equally deſtructive and pernicious, but, on ſome we have compaſsion making a difference; others we would ſave with feare, pulling them out of the fire,
+<note n="p" place="margin">Jude 22 23.</note> and inſtruct all with meekneſſe, who oppoſe themſelves; if God peradventure will give them repentance to the ac<g ref="char:EOLhyphen"/>knowledging of the truth, and that they may recover themſelves out of the ſnare of the Devill, who are taken captive by him at his will,
+<note n="q" place="margin">2 Tim. 2.25, 26.</note> onely we are carefull and ſo<g ref="char:EOLhyphen"/>licitous, that our tenderneſſe and mildneſſe towards the truly weake, and really conſcientious, and ſcrupulous, in<g ref="char:EOLhyphen"/>courage not the wilfull and ingaged, and expoſe not our ſerious and affectionate endeavours unto contempt and ſcorne, and therefore would be glad to borrow and be<g ref="char:EOLhyphen"/>ſprinkle this our <hi>Atteſtation,</hi> with ſo much of our Reve<g ref="char:EOLhyphen"/>rend Bretherens animoſity and zeale, as may make our gentle Phiſick worke. <hi>Paul</hi> doth compare himſelfe, and
+<pb n="4" facs="tcp:161683:4"/>others of his Fellow-labourers in the worke of God, to Nurſes,
+<note n="r" place="margin">1 Theſ. 2.7.</note> and was as tender, compaſsionate, and fellow-feeling as any other; <hi>Who is weake</hi> (ſaith he) <hi>and I am not weake? Who is offended, and I burne not?</hi>
+               <note n="ſ" place="margin">2 Cor. 11 29.</note> yet when truth ſtag<g ref="char:EOLhyphen"/>gered,
+<note n="t" place="margin">Gal. 2.5 ver. 11. ver. 14.</note> and men of place and worth began to be ingaged in unwarrantable condeſcentions, and complyances, his meekneſſe vaniſheth, and the onely jewell he adornes him<g ref="char:EOLhyphen"/>ſelfe with, is plaine dealing, not onely withſtanding the great Apoſtle of the Circumciſion to his face, but recor<g ref="char:EOLhyphen"/>ding that Encounter, and Conteſt to all ſucceeding Gene<g ref="char:EOLhyphen"/>rations; and when he findes an <hi>Elymas</hi> withſtanding him, and ſeeking to ſubvert his Hearers,
+<note n="u" place="margin">Act. 10 8 ver. 9, 10. Joh. 1.<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>9.</note> he is impatient, and dips his Pen in Vinegar. Our Saviour was the Lambe of God, before his ſhearers dumbe,
+<note n="x" place="margin">Act 8.32</note> anoynted to preach the Goſpell to the poore;
+<note n="y" place="margin">Luk 4.28</note> and thought a friend to Publicans and ſinners,
+<note n="z" place="margin">Mar. 11.19.</note> yet when he meets with Scribes and Phari<g ref="char:EOLhyphen"/>ſees, diſdainfull, proud, diſſembling, hypocriticall decei<g ref="char:EOLhyphen"/>vers, and ſeducers of the people, he is a Lion,
+<note n="a" place="margin">Rev. 5.5</note> and can
+<note n="b" place="margin">Mat. 23.13 ver. 33.</note> thunder woes, and talke of Hell, and of Damnation to them. The Lord in mercy grant, we may in both endea<g ref="char:EOLhyphen"/>vour imitation, and being ſent forth as Sheepe in the midſt of Wolves, we may mingle wiſdome with ſimpli<g ref="char:EOLhyphen"/>city,
+<note n="c" place="margin">Mat. 1<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.16.</note> and ſo affect the meekneſſe and gentleneſſe of Chriſt in ſome caſes,
+<note n="d" place="margin">2 Cor. 10 1.</note> as not to forget his reſolution and zeale in other,
+<note n="e" place="margin">John 2.15, 16, 17.</note> wherein as we are aſſured to approve our ſelves to him (which is our comfort and incouragement in what we doe) ſo we hope we ſhall, and deſire we may, to all who love him in ſincerity,
+<note n="f" place="margin">Eph. 6.24.</note> which is the ayme, de<g ref="char:EOLhyphen"/>ſigne, and expectation of</p>
+            <closer>
+               <signed>Your Friends, and Servants in the Goſpell.
+<list>
+                     <item>
+                        <hi>IOhn Winſton,</hi> Paſtor of Can<g ref="char:EOLhyphen"/>nons Aſhby</item>
+                     <item>
+                        <hi>Thomas Whitfield,</hi> Miniſter of Bugbrooke.</item>
+                     <item>
+                        <hi>VVilliam Spencer,</hi> Miniſter of Scaldwel</item>
+                     <item>
+                        <hi>Benjamin Tomkins,</hi> Miniſter of Chriſt in Harpole.</item>
+                     <pb n="5" facs="tcp:161683:4"/>
+                     <item> 
+                        <hi>Andrew Perne,</hi> Miniſter of Wilby</item>
+                     <item>
+                        <hi>Richard Truman,</hi> Miniſter of Brompton</item>
+                     <item>
+                        <hi>Thomas Martin,</hi> Miniſter of Houghton parva</item>
+                     <item>
+                        <hi>Thomas Ball,</hi> Paſtor of Al<g ref="char:EOLhyphen"/>hallows in Northampton</item>
+                     <item>
+                        <hi>Richard Gifford,</hi> Paſtor of the Church in Gayton</item>
+                     <item>
+                        <hi>Robert Shilborne,</hi> Miniſter of Grendon</item>
+                     <item>
+                        <hi>John Bullyvant,</hi> Miniſter of Ab<g ref="char:EOLhyphen"/>bingdon</item>
+                     <item>
+                        <hi>Francis Markham,</hi> Miniſter of Greaton</item>
+                     <item>
+                        <hi>Francis Atterbury,</hi> Miniſter of Milton</item>
+                     <item>
+                        <hi>John Palmer,</hi> Paſtor of Ecton</item>
+                     <item>
+                        <hi>Will. Barlee,</hi> Paſtor of Brock<g ref="char:EOLhyphen"/>hall</item>
+                     <item>
+                        <hi>Tho. Burroughs,</hi> Miniſter of Gods Word at Cottesbrooke</item>
+                     <item>
+                        <hi>Lionel Goodrick,</hi> Miniſter of O<g ref="char:EOLhyphen"/>verſton</item>
+                     <item>
+                        <hi>William Ponder,</hi> Miniſter of Corten-hall</item>
+                     <item>
+                        <hi>Will. Holmes,</hi> Miniſter of Gods Word at Guilsborough</item>
+                     <item>
+                        <hi>William Gilpin,</hi> Miniſter of Hardingſton</item>
+                     <item>
+                        <hi>Thomas Harris,</hi> Miniſter of Brackley</item>
+                     <item>
+                        <hi>John Baynard,</hi> Miniſter of Bur<g ref="char:EOLhyphen"/>ton Latimer</item>
+                     <item>
+                        <hi>John Bazeley,</hi> Miniſter of Broughton</item>
+                     <item>
+                        <hi>Thomas Templer,</hi> Miniſter of Weſton cum Sutton</item>
+                     <item>
+                        <hi>Thomas Balgaye,</hi> Miniſter of Stoake Albany</item>
+                     <item>
+                        <hi>Robert Hocknell,</hi> Miniſter of Barton Segrave</item>
+                     <item>
+                        <hi>Moſes Hodges,</hi> Miniſter of Iſham</item>
+                     <item>
+                        <hi>John Howes,</hi> Miniſter of Earles Barton</item>
+                     <item>
+                        <hi>Henry VVilles,</hi> Miniſter of Loddington</item>
+                     <item>
+                        <hi>Frederick Schloer,</hi> Miniſter of Ould</item>
+                     <item>
+                        <hi>Edmund Morgan,</hi> Miniſter of Upton</item>
+                     <item>
+                        <hi>Richard Owſley,</hi> Miniſter of Cottingham</item>
+                     <item>
+                        <hi>William Spadling,</hi> Miniſter of Rothwell</item>
+                     <item>
+                        <hi>Samuel Aynſworth,</hi> Miniſter of Kelmarſh</item>
+                     <item>
+                        <hi>Will. Cley,</hi> Miniſter of Sywell</item>
+                     <item>
+                        <hi>John Cave,</hi> Miniſter of Middle<g ref="char:EOLhyphen"/>ton Cheney</item>
+                     <item>
+                        <hi>Robert Allen,</hi> Preacher at Nor<g ref="char:EOLhyphen"/>ton by Daventry</item>
+                     <item>
+                        <hi>William Bird,</hi> Miniſter of Mor<g ref="char:EOLhyphen"/>ton Pinckney</item>
+                     <item>
+                        <hi>John Warren,</hi> Miniſter of Flower</item>
+                     <item>
+                        <hi>Vincent Cupper,</hi> Miniſter of Pauliſperry</item>
+                     <item>
+                        <hi>Edmund Spinkes,</hi> Paſtor of Caſter</item>
+                     <item>
+                        <hi>Thomas Andrewes,</hi> Miniſter of Wellingborow</item>
+                     <item>
+                        <hi>John Ventris,</hi> Miniſter of Pisford</item>
+                     <item>
+                        <hi>William Short-grave,</hi> Miniſter of Harlſton</item>
+                     <item>
+                        <hi>Jaſper Symonds,</hi> Miniſter of of the Goſpell</item>
+                     <pb n="6" facs="tcp:161683:5"/>
+                     <item> 
+                        <hi>William Paine,</hi> Miniſter of Grafton Regis</item>
+                     <item>
+                        <hi>William Clewer,</hi> Miniſter of Aſhton</item>
+                     <item>
+                        <hi>William Hart,</hi> Miniſter of Dal<g ref="char:EOLhyphen"/>lington</item>
+                     <item>
+                        <hi>Theophilus Hart,</hi> Paſtor of the Church at Wapenham</item>
+                     <item>
+                        <hi>Joſhua Hall,</hi> Miniſter of great Billing</item>
+                     <item>
+                        <hi>William Tabor,</hi> Miniſter of Stooke-Bruren.</item>
+                     <item>
+                        <hi>Timothy Perkins,</hi> Miniſter of Evenly</item>
+                     <item>
+                        <hi>John Eyre,</hi> Miniſter of Marſton Laurence</item>
+                     <item>
+                        <hi>Richard Fiſher,</hi> Miniſter of Sul<g ref="char:EOLhyphen"/>grave</item>
+                     <item>
+                        <hi>Joſias Bunn,</hi> Miniſter at Turn<g ref="char:EOLhyphen"/>weſton</item>
+                     <item>
+                        <hi>John Price,</hi> Preacher of the Word at Towceſter</item>
+                     <item>
+                        <hi>Ralph Richards,</hi> Miniſter of Helmden</item>
+                     <item>
+                        <hi>William Wilding,</hi> Miniſter of Plumpton</item>
+                     <item>
+                        <hi>Richard Hooke,</hi> Miniſter of Rands</item>
+                     <item>
+                        <hi>Samuel Glover,</hi> Miniſter of Eaſt Findon</item>
+                     <item>
+                        <hi>Henry Pheaſant,</hi> Miniſter of Higham Ferrers</item>
+                     <item>
+                        <hi>Arch. Symmers</hi>
+                     </item>
+                     <item>
+                        <hi>William Henſman,</hi> Miniſter of I<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tlingbrough</item>
+                     <item>
+                        <hi>Henry Levit,</hi> Miniſter of Odell in Bedfordſhire</item>
+                     <item>
+                        <hi>Simon King,</hi> Miniſter of Creek</item>
+                     <item>
+                        <hi>Samuel Marſhall,</hi> Miniſter <hi>de</hi> Dodford</item>
+                     <item>
+                        <hi>Thomas Dawkes,</hi> Miniſter of Badby <hi>cum</hi> Newnham</item>
+                     <item>
+                        <hi>Anthony Scatter-good,</hi> Miniſter of Gods Word at Win<g ref="char:EOLhyphen"/>wicke</item>
+                     <item>
+                        <hi>John Lyon,</hi> Miniſter of Gods Word at Barnwell</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
